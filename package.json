@@ -9,19 +9,11 @@
     "lite": "lite-server"
   },
 
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chiziwe-2-0/crsr.git"
-  },
   "keywords": [
     "coursera"
   ],
   "author": "Nikita Olimpiev",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chiziwe-2-0/crsr/issues"
-  },
-  "homepage": "https://github.com/chiziwe-2-0/crsr#readme",
 
   "devDependencies": {
     "lite-server": "^2.6.1"
